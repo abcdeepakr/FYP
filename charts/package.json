@@ -1,0 +1,14 @@
+{
+  "name": "charts",
+  "version": "1.0.0",
+  "description": "test file to create charts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.9.4"
+  }
+}
